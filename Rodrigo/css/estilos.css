@@ -20,6 +20,8 @@ body {
     padding: 60px 0;
 }
 
+
+
 header{
     height: 100vh;
     background-image: linear-gradient(to top, rgba(161, 140, 209, 0.266) 0%, rgba(251, 194, 235, 0.259) 100%), url(../img/women.jpg);
@@ -36,7 +38,7 @@ header{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .hamburger{
@@ -135,6 +137,10 @@ header{
 }
 
 .gallery{
+    background: #f2f2f2;
+}
+
+.valores{
     background: #f2f2f2;
 }
 
